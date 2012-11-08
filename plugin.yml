@@ -1,0 +1,8 @@
+#Copyright (C) 2012 one4me@github.com
+name: VanillaExtract
+version: 0.1.0
+description: This plugin adds more features to vanilla Minecraft commands.
+author: one4me
+website: https://github.com/one4me/
+
+main: com.github.one4me.VanillaExtract.VanillaExtract
